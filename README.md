@@ -15,12 +15,9 @@ Please cite the following papers when using the dataset:
 
 # Dataset Access
 The SODv3 dataset is hosted on Nibi and shared through Globus.
-1. Open the https://app.globus.org/groups/442bcc9b-e1ee-11f1-b4e5-0afff9abf491/about.
-2. Sign in to Globus and click **Request to Join Group**.
-3. Wait for administrator approval.
-4. Once approved, go to **Collections → Shared with You** in Globus
-   to access the SODv3 dataset.
+To request access to the SODv3 dataset, please complete the form https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=C92AT4wzTE6KFJBEaWL3uH58ObJG0JRLp0BaD3af9F1UNVBGR09FSFJEMjVNSVM3Q1lCNlk3Qk03Ny4u
 
-Please sign in using the same account you used to request membership.
+Please briefly introduce yourself and provide your contact email address. Once your request is approved, we will email you the dataset access link.
+
 # License:
 This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
