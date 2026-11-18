@@ -11,7 +11,7 @@ Please see the document at ...
 # Related Publications
 Please cite the following papers when using the dataset:
 - Xingyu Qu and Peng Hu, "Detecting Small Space Objects for Space Situational Awareness with Collaborative Edge AI," [arXiv:2611.19394](https://arxiv.org/abs/2611.19394)
-- Xingyu Qu, Wenuan Zhang, and Peng Hu, "Collaborative space object detection with multi-satellite viewpoints in LEO constellations," Applied Soft Computing, vol. 204, p. 116741, Jan. 2027. [doi: https://doi.org/10.1016/j.asoc.2026.116741](doi: https://doi.org/10.1016/j.asoc.2026.116741)
+- Xingyu Qu, Wenuan Zhang, and Peng Hu, "Collaborative space object detection with multi-satellite viewpoints in LEO constellations," Applied Soft Computing, vol. 204, p. 116741, Jan. 2027. [doi: https://doi.org/10.1016/j.asoc.2026.116741](https://doi.org/10.1016/j.asoc.2026.116741)
 
 # Dataset Access
 The SODv3 dataset is hosted on Nibi and shared through Globus.
