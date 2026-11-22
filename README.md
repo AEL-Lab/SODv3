@@ -1,5 +1,5 @@
 # SODv3
-Space Object Detection Dataset (SOD) Version 3. 
+Space Object Detection Dataset v3.0 (SODv3). 
 
 # Authors
 Xingyu Qu and Peng Hu <br>
