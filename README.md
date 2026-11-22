@@ -1,7 +1,6 @@
 # Space Object Detection Dataset v3.0 (SODv3)
 
 SODv3 is an image dataset for research and evaluation in space object detection.
-[Briefly describe the objects, image sources, and annotation types.]
 
 - Release date: November 20, 2026
 - Creators: Xingyu Qu and Peng Hu, Advanced Network and Embedded Systems Lab (AEL)
