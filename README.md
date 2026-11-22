@@ -7,6 +7,9 @@ SODv3 is an image dataset for research and evaluation in space object detection.
 - Publisher: Dept. of Electrical and Computer Engineering, University of Manitoba, Canada
 - Dataset Guide: [Relative path or public link]
 
+![SODv3 sample showing space objects](sodv3_sample.jpg)
+*Example from SODv3.*
+
 ## Recommended citation
 
 Xingyu Qu and Peng Hu. (2026). Space Object Detection Dataset v3.0 (SODv3).
