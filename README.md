@@ -5,7 +5,7 @@ SODv3 is an image dataset for research and evaluation in space object detection.
 - Release date: November 20, 2026
 - Creators: Xingyu Qu and Peng Hu, Advanced Network and Embedded Systems Lab (AEL)
 - Publisher: Dept. of Electrical and Computer Engineering, University of Manitoba, Canada
-- Dataset Guide: [Relative path or public link]
+- Dataset Guide: [http://hdl.handle.net/1993/40215](http://hdl.handle.net/1993/40215)
 
 ![SODv3 sample showing space objects](./SODv3_sample.jpg)
 
@@ -13,8 +13,7 @@ SODv3 is an image dataset for research and evaluation in space object detection.
 
 ## Recommended citation
 
-Xingyu Qu and Peng Hu. (2026). Space Object Detection Dataset v3.0 (SODv3).
-[Publisher]. [DOI or permanent release URL]
+Xingyu Qu and Peng Hu, "Space Object Detection Dataset v3.0 (SODv3)", 20 November 2026, University of Manitoba, Canada. 
 
 ## Related Publications
 
